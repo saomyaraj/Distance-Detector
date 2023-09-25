@@ -2,12 +2,12 @@
 
 ## Table of Contents
 
-- [Introduction]
-- [Components]
-- [Features]
-- [Installation]
-- [Usage]
-- [Contributing]
+- Introduction
+- Components
+- Features
+- Installation
+- Usage
+- Contributing
 
 ## Introduction
 
