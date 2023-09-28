@@ -35,7 +35,7 @@ To build this project, you will need the following components:
 
 Contributions are welcome! If you have ideas for improvements or find any issues, please open an issue or submit a pull request.
 
--Fork the repository.
--Create a new branch.
--Make your changes and test them.
--Submit a pull request with a detailed description of your changes.
+- Fork the repository.
+- Create a new branch.
+- Make your changes and test them.
+- Submit a pull request with a detailed description of your changes.
