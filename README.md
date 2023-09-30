@@ -29,7 +29,6 @@ To build this project, you will need the following components:
 - Visual feedback with an LED indicator.
 - Easily customizable threshold range for object detection.
 - Perfect for learning Arduino basics and sensor interfacing.
-- Great for DIY projects and educational purposes.
 
 ## Contributing
 
